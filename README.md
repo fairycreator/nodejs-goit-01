@@ -182,25 +182,6 @@ README.md. Створіть цей файл в корені проекту. Пі
 - У коді немає закоментованих ділянок коду
 - Проект коректно працює з актуальною LTS-версією Node
 
-## Cкріншоти
-
-![Screenshoot](./assets/screenshoot-00.png)
-
----
-
-![Screenshoot](./assets/screenshoot-01.png)
-
----
-
-![Screenshoot](./assets/screenshoot-02.png)
-
----
-
-![Screenshoot](./assets/screenshoot-03.png)
-
----
-
-![Screenshoot](./assets/screenshoot-04.png)
 
 # Node.js ---> commands
 
